@@ -1,2 +1,2 @@
 # LMS
- Its a system for mangibg library.
+ Its a system for manging library.
